@@ -1,5 +1,14 @@
-p{
-    color: red;
+p {
+    background-color: red;
     height: 100px;
     width: 100px;
+}
+
+.atrybut-class {
+    background-color: blue
+}
+
+.atrybut {
+opacity: 0.5;
+
 }
